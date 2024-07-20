@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @learnwithpratik
-- 👀 I’m interested in Web Dedign & UX
+- 👀 I’m interested in Web Design & UX
 - 🌱 I’m currently learning ReactJs
-- 📫 How to reach me: Instagram - @pratikmusical_
+- 📫 How to reach me: Instagram - @_shimpi.pratik_
 - ⚡ Fun fact: I love Music and Movies! 
 
 <!---
