@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @learnwithpratik
+- 👋 Hi, I’m Pratik Shimpi
 - 👀 I’m interested in Web Design & UX
 - 🌱 I’m currently learning ReactJs
-- 📫 How to reach me: Instagram - @_shimpi.pratik_
+- 📫 How to reach me: Instagram - @_pratik.shimpi_
 - ⚡ Fun fact: I love Music and Movies! 
 
 <!---
